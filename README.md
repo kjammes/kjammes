@@ -1,5 +1,7 @@
-### Hi there 👋
-
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Jayesh Karli! 
+![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCBx3lI4R6bRGJhbiu4A_uCA?label=People%20subscribed%20to%20my%20YT%20channel&style=social)
+![Twitter URL](https://img.shields.io/twitter/url?label=My%20Twitter%20&style=social&url=https%3A%2F%2Ftwitter.com%2FJayeshKarli)
+![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCBx3lI4R6bRGJhbiu4A_uCA?label=Total%20views%20on%20my%20channel)
 <!--
 **kjammes/kjammes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
