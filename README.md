@@ -6,11 +6,20 @@
 ![Twitter URL](https://img.shields.io/twitter/url?label=My%20Twitter%20&style=social&url=https%3A%2F%2Ftwitter.com%2FJayeshKarli)
 ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCBx3lI4R6bRGJhbiu4A_uCA?label=Total%20views%20on%20my%20channel)
 
-A software engineer from India. I love to work with javascript and typescript.
+I'm professional software engineer from India. I specialize in full stack development. 
 
-I create programming/coding content, I have videos about competitive programming HTML, CSS and I'll keep making content around javascript, javascript frameworks and many such similar technologies in future. Consider subscribing to my [youtube channel](https://www.youtube.com/channel/UCBx3lI4R6bRGJhbiu4A_uCA) and following me on [twitter](https://twitter.com/JayeshKarli) to stay up to date with everything.Looking forward to meeting amazing new developers and people.
+I use multiple languages in my day to day work. Java and Spring Boot are the most notable backend technologies I work on alogn with JS(JavaScript) and NodeJS. I also work on front-end using JS and AngularJS.
 
-Want to know more about me outside of coding? You can also connect with me on [Instagram](https://www.instagram.com/jrk4real)
+I create programming/coding content, I have videos about interview questions and web development. 
+
+Consider subscribing to my [youtube channel](https://www.youtube.com/channel/UCBx3lI4R6bRGJhbiu4A_uCA) and share any feedback or positive criticism.
+
+Want to know more about me outside of coding? 
+You can also connect with me on [Instagram](https://www.instagram.com/jrk4real) and [twitter](https://twitter.com/JayeshKarli).
+
+Looking forward to meeting amazing new developers and people.
+
+
 ---
 🧰 Toolbox
 
