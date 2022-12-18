@@ -14,6 +14,8 @@ I create content around Software Development, I have videos about interview ques
 
 Consider subscribing to my [youtube channel](https://www.youtube.com/channel/UCBx3lI4R6bRGJhbiu4A_uCA) and share any feedback or positive criticism.
 
+You can also connect with me on [Instagram](https://www.instagram.com/jrk4real) and [Twitter](https://twitter.com/JayeshKarli).
+
 ---
 
 #### :books: Recent Blog Posts
@@ -27,19 +29,11 @@ Consider subscribing to my [youtube channel](https://www.youtube.com/channel/UCB
 ---
 🧰 Toolbox
 
-HTML, CSS, JavaScript.
-AngularJS and Angular.
-Java, Spring Boot, NodeJS.
-Postgres, MongoDB, MySQL, ElasticSearch.
+ - HTML, CSS, JavaScript.
+ - AngularJS and Angular.
+ - Java, Spring Boot, NodeJS.
+ - Postgres, MongoDB, MySQL, ElasticSearch.
 
-There are also other technologies which I sometimes use for my personal projects and just out curiousity.
-
----
-
-Want to know more about me outside of coding? 
-You can also connect with me on [Instagram](https://www.instagram.com/jrk4real) and [Twitter](https://twitter.com/JayeshKarli).
-
-I am looking forward to meeting excellent developers and people all over the world.
 
 <!--
 **kjammes/kjammes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
