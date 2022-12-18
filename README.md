@@ -34,6 +34,8 @@ Postgres, MongoDB, MySQL, ElasticSearch.
 
 There are also other technologies which I sometimes use for my personal projects and just out curiousity.
 
+---
+
 Want to know more about me outside of coding? 
 You can also connect with me on [Instagram](https://www.instagram.com/jrk4real) and [Twitter](https://twitter.com/JayeshKarli).
 
