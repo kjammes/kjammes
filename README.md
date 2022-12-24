@@ -20,11 +20,11 @@ You can also connect with me on [Instagram](https://www.instagram.com/jrk4real) 
 
 #### :books: Recent Blog Posts
 <!-- BLOGPOSTS:START -->
- - 💯 [Shiny Object Syndrome in Tech](https://jayesh-karli.hashnode.dev/shiny-object-syndrome-in-tech)
- - 💫 [Introduction to MongoDB](https://jayesh-karli.hashnode.dev/introduction-to-mongodb)
- - 🔥 [Leetcode daily challenges - My Experience and Opinions.](https://jayesh-karli.hashnode.dev/leetcode-daily-challenges-my-experience-and-opinions)
- - 💯 [Subsets - Leetcode](https://jayesh-karli.hashnode.dev/subsets-leetcode)
- - 🚀 [Lessons only a job can teach you](https://jayesh-karli.hashnode.dev/lessons-only-a-job-can-teach-you)<!-- BLOGPOSTS:END -->
+ - 💯 [Shiny Object Syndrome in Tech](https://blog.jayeshkarli.dev/shiny-object-syndrome-in-tech)
+ - 💫 [Introduction to MongoDB](https://blog.jayeshkarli.dev/introduction-to-mongodb)
+ - 🔥 [Leetcode daily challenges - My Experience and Opinions.](https://blog.jayeshkarli.dev/leetcode-daily-challenges-my-experience-and-opinions)
+ - 💯 [Subsets - Leetcode](https://blog.jayeshkarli.dev/subsets-leetcode)
+ - 🚀 [Lessons only a job can teach you](https://blog.jayeshkarli.dev/lessons-only-a-job-can-teach-you)<!-- BLOGPOSTS:END -->
 
 ---
 🧰 Toolbox
