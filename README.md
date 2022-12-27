@@ -20,11 +20,11 @@ You can also connect with me on [Instagram](https://www.instagram.com/jrk4real) 
 
 #### :books: Recent Blog Posts
 <!-- BLOGPOSTS:START -->
- - 💯 [Shiny Object Syndrome in Tech](https://blog.jayeshkarli.dev/shiny-object-syndrome-in-tech)
- - 💫 [Introduction to MongoDB](https://blog.jayeshkarli.dev/introduction-to-mongodb)
- - 🔥 [Leetcode daily challenges - My Experience and Opinions.](https://blog.jayeshkarli.dev/leetcode-daily-challenges-my-experience-and-opinions)
- - 💯 [Subsets - Leetcode](https://blog.jayeshkarli.dev/subsets-leetcode)
- - 🚀 [Lessons only a job can teach you](https://blog.jayeshkarli.dev/lessons-only-a-job-can-teach-you)<!-- BLOGPOSTS:END -->
+ - 💯 [Persevering Through Trials and Tribulations as a Developer: Dev Retro 2022](https://blog.jayeshkarli.dev/persevering-through-trials-and-tribulations-as-a-developer-dev-retro-2022)
+ - 💫 [Shiny Object Syndrome in Tech](https://blog.jayeshkarli.dev/shiny-object-syndrome-in-tech)
+ - 🔥 [Introduction to MongoDB](https://blog.jayeshkarli.dev/introduction-to-mongodb)
+ - 💯 [Leetcode daily challenges - My Experience and Opinions.](https://blog.jayeshkarli.dev/leetcode-daily-challenges-my-experience-and-opinions)
+ - 🚀 [Subsets - Leetcode](https://blog.jayeshkarli.dev/subsets-leetcode)<!-- BLOGPOSTS:END -->
 
 ---
 🧰 Toolbox
