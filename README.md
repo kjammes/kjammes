@@ -20,11 +20,11 @@ You can also connect with me on [Instagram](https://www.instagram.com/jrk4real) 
 
 #### :books: Recent Blog Posts
 <!-- BLOGPOSTS:START -->
- - 💯 [Mongo DB Basics](https://blog.jayeshkarli.dev/mongo-db-basics)
- - 💫 [MongoDB Data-Types](https://blog.jayeshkarli.dev/mongodb-data-types)
- - 🔥 [Persevering Through Trials and Tribulations as a Developer: Dev Retro 2022](https://blog.jayeshkarli.dev/persevering-through-trials-and-tribulations-as-a-developer-dev-retro-2022)
- - 💯 [Shiny Object Syndrome in Tech](https://blog.jayeshkarli.dev/shiny-object-syndrome-in-tech)
- - 🚀 [Introduction to MongoDB](https://blog.jayeshkarli.dev/introduction-to-mongodb)<!-- BLOGPOSTS:END -->
+ - 💯 [Atomic Habits](https://blog.jayeshkarli.dev/atomic-habits)
+ - 💫 [Mongo DB Basics](https://blog.jayeshkarli.dev/mongo-db-basics)
+ - 🔥 [MongoDB Data-Types](https://blog.jayeshkarli.dev/mongodb-data-types)
+ - 💯 [Persevering Through Trials and Tribulations as a Developer: Dev Retro 2022](https://blog.jayeshkarli.dev/persevering-through-trials-and-tribulations-as-a-developer-dev-retro-2022)
+ - 🚀 [Shiny Object Syndrome in Tech](https://blog.jayeshkarli.dev/shiny-object-syndrome-in-tech)<!-- BLOGPOSTS:END -->
 
 ---
 🧰 Toolbox
