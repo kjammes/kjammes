@@ -6,7 +6,9 @@
 ![Twitter URL](https://img.shields.io/twitter/url?label=My%20Twitter%20&style=social&url=https%3A%2F%2Ftwitter.com%2FJayeshKarli)
 ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCBx3lI4R6bRGJhbiu4A_uCA?label=Total%20views%20on%20my%20channel)
 
-I'm a professional software engineer from India. I specialize in full-stack development. 
+I'm a professional software engineer from India. I specialize in back-end development. 
+
+I love problem solving, you can checkout my [Leetcode Account](https://leetcode.com/karli/) for my DSA practice.
 
 I use multiple languages in my day-to-day work. Java and Spring Boot are the most notable backend technologies I work on along with JS(JavaScript) and NodeJS. I also work on the front end using JS and AngularJS.
 
